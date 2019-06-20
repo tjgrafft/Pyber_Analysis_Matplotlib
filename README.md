@@ -1,1 +1,5 @@
-# matplotlib_hw
+This assignment was both fun and challenging. It required all of the knowledge we have learned thus far about python and matplotlib. The excerise that was the most challenging was combining the two datasets so that I could figure out how to plot the correct x and y coordinates for all three city types. I also learned how to increase the size of the bubble by multiplying the variable driver thanks to the TA.
+Three trends I noticed from these final data vizualizations were:
+1. Although more Pyber drivers were prevalent in Urban city types, the average fares were actually lower than rural city type's avg. fares.
+2. Eighty percent of the total drivers in the Pyber company were working in Urban City types because that's where the larger populations were, hence why the Urban city types also had over 60 percent of the total rides in the data provided.
+3. Perhaps the higher average fare in Rural city types could be due to a larger distance traveled by the drivers, given that rural areas are further away from points of interest.
